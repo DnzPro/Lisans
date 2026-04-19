@@ -3,7 +3,7 @@
 📌 LICENSE.txt
 ----------------------------------------------------------------------------------------------------------------------------------------
 [EN]
-Terms of Use Treminko's Wordle for Content Creators
+Terms of Use Treminko's Wordle for Content Creators: 
 The intellectual property, proprietary code, and design of this mod belong entirely to the developer. If this mod is used to create video or livestream content on YouTube, Instagram, TikTok, or any similar platform, the following rule must be strictly adhered to:
 
 Credit Requirement: The official download link for the mod and the creator’s name must be clearly added to the very top of the video or livestream’s description section.
@@ -15,7 +15,7 @@ Content shared without adhering to this rule will be considered unauthorized use
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 [TR]
-İçerik Üreticileri İçin Treminko's Wordle Kullanım Şartları
+İçerik Üreticileri İçin Treminko's Wordle Kullanım Şartları: 
 Bu modun fikri mülkiyeti, özel kodları ve tasarımı tamamen geliştiriciye aittir. Bu mod kullanılarak YouTube, Instagram, TikTok veya benzeri herhangi bir platformda video/yayın içeriği üretilmesi durumunda aşağıdaki kurala uyulması kesinlikle zorunludur:
 
 Kredi Zorunluluğu: Videonun veya yayının açıklama kısmının en üst bölümüne modun resmi indirme bağlantısı ve yapımcı adı açıkça eklenmelidir.
